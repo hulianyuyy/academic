@@ -18,13 +18,13 @@ education:
   courses:
     - course: MEng in Computer Science and Technology
       institution: Dalian University of Technology
-      year: 2021
+      year: 2018-2021
     - course: BSc in Electronics and Information Engineering
       institution: Dalian University of Technology
-      year: 2018
+      year: 2014-2018
     - course: Computer Science and Technology
       institution: Tianjin Univerisity
-      year: ""
+      year: "2021-now"
 email: hly2021@tju.edu.cn
 superuser: true
 highlight_name: false
