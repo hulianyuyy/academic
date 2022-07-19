@@ -14,7 +14,7 @@ author_notes:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-07-19T19:11:29+08:00
+lastmod: 2022-07-16T19:11:29+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ url_code: https://github.com/hulianyuyy/Temporal-Lift-Pooling
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-19T11:11:27.901116Z'
+publishDate: '2022-07-16T11:11:27.901116Z'
 publication_types:
 - '1'
 abstract: ''
