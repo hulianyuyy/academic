@@ -37,5 +37,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 3rd International Workshop on Multimedia Content
-  Analysis in Sports*'
+  Analysis in Sports (MM2020 Workshop)*'
 ---
