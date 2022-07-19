@@ -26,6 +26,7 @@ image:
   focal_point: ''
   preview_only: false
 url_pdf: https://arxiv.org/abs/2207.08734
+url_code: https://github.com/hulianyuyy/Temporal-Lift-Pooling
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
