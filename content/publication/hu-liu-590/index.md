@@ -44,7 +44,7 @@ publication: '*Expert Systems with Applications*'
 ---
 
 +++
-[[url_old_pdf]]
+[[url_custom]]
 name = "Old pdf"
 url = "https://arxiv.org/pdf/2208.08599.pdf"
 +++
