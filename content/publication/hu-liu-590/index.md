@@ -29,7 +29,9 @@ url_pdf: https://authors.elsevier.com/a/1hL6Z3PiGTPe0F
 #url_old_pdf: https://arxiv.org/pdf/2208.08599.pdf
 #url_pdf: https://arxiv.org/pdf/2208.08599.pdf
 url_code: https://github.com/hulianyuyy/STGAT
-
+[[url_custom]]
+name = "Old pdf"
+url = "https://arxiv.org/pdf/2208.08599.pdf"
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -43,8 +45,3 @@ abstract: ''
 publication: '*Expert Systems with Applications*'
 ---
 
-+++
-[[url_custom]]
-name = "Old pdf"
-url = "https://arxiv.org/pdf/2208.08599.pdf"
-+++
