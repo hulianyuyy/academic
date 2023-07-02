@@ -25,8 +25,8 @@ image:
   focal_point: ''
   preview_only: false
 url_pdf: https://authors.elsevier.com/a/1hL6Z3PiGTPe0F
-#url_project: https://arxiv.org/pdf/2208.08599.pdf
-url_old_pdf: https://arxiv.org/pdf/2208.08599.pdf
+url_project: https://arxiv.org/pdf/2208.08599.pdf
+#url_old_pdf: https://arxiv.org/pdf/2208.08599.pdf
 #url_pdf: https://arxiv.org/pdf/2208.08599.pdf
 url_code: https://github.com/hulianyuyy/STGAT
 # Projects (optional).
