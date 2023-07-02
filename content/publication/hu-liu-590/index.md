@@ -25,13 +25,11 @@ image:
   focal_point: ''
   preview_only: false
 url_pdf: https://authors.elsevier.com/a/1hL6Z3PiGTPe0F
+url_project: https://arxiv.org/pdf/2208.08599.pdf
 #url_old_pdf: https://arxiv.org/pdf/2208.08599.pdf
 #url_pdf: https://arxiv.org/pdf/2208.08599.pdf
 url_code: https://github.com/hulianyuyy/STGAT
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
