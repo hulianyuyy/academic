@@ -1,7 +1,7 @@
 ---
 title: Lianyu Hu
 role: PhD Candidate
-bio: A 2rd-year PhD candidate in Tianjin University, interested in video analysis .
+bio: A 3rd-year PhD candidate in Tianjin University, interested in video analysis .
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,7 +29,7 @@ email: hly2021@tju.edu.cn
 superuser: true
 highlight_name: false
 ---
-I am a 2rd-year PhD candidate in Tianjin University, China, supervised by Prof [Wei Feng](https://scholar.google.com/citations?user=7ory1i8AAAAJ&hl=zh-CN&oi=ao). During my graduate student period, i worked closely with Prof [Shenglan Liu](https://scholar.google.com/citations?hl=zh-CN&user=MtbsE3YAAAAJ). I am interested in video analysis including action recognition and sign language understanding.
+I am a 3rd-year PhD candidate in Tianjin University, China, supervised by Prof [Wei Feng](https://scholar.google.com/citations?user=7ory1i8AAAAJ&hl=zh-CN&oi=ao). During my graduate student period, i worked closely with Prof [Shenglan Liu](https://scholar.google.com/citations?hl=zh-CN&user=MtbsE3YAAAAJ). I am interested in video analysis, sign language understanding and multi-modal learning.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
