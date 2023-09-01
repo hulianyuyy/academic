@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Scalable frame resolution for efficient continuous sign language recognition'
+title: 'Scalable Frame Resolution for Efficient Continuous Sign Language Recognition'
 subtitle: ''
 summary: ''
 authors:
