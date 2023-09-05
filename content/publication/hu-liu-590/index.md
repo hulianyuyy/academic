@@ -24,7 +24,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-url_pdf: https://authors.elsevier.com/a/1hL6Z3PiGTPe0F
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957417423011855
 url_project: https://arxiv.org/pdf/2208.08599.pdf
 #url_old_pdf: https://arxiv.org/pdf/2208.08599.pdf
 #url_pdf: https://arxiv.org/pdf/2208.08599.pdf
