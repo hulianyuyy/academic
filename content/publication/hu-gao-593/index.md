@@ -40,5 +40,5 @@ publishDate: '2022-08-17T11:11:27.901116Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*ACMMM 2023 Oral*'
+publication: '*ACMMM 2023 (Oral)*'
 ---
