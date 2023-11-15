@@ -38,5 +38,5 @@ publishDate: '2022-12-01T11:11:27.901116Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*AAAI 2023*'
+publication: '*AAAI 2023 Oral*'
 ---
