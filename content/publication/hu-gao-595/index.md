@@ -27,7 +27,7 @@ image:
   focal_point: ''
   preview_only: false
 url_pdf: https://arxiv.org/pdf/2401.00268.pdf
-# url_code: https://github.com/hulianyuyy/AdaBrowse
+url_code: https://github.com/hulianyuyy/COMMA
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -39,5 +39,5 @@ publishDate: '2023-12-10T11:11:27.901116Z'
 publication_types:
 - '1'
 abstract: ''
-publication: 'AAAI2024*'
+publication: '*AAAI2024*'
 ---
