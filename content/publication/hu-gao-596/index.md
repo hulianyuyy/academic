@@ -13,8 +13,8 @@ author_notes:
 - "First Author"
 tags: []
 categories: []
-date: '2024-03-20'
-lastmod: 2024-03-20T19:11:29+08:00
+date: '2024-03-19'
+lastmod: 2024-03-19T19:11:29+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ url_code: https://github.com/hulianyuyy/DSTA-SLR
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-03-20T11:11:27.901116Z'
+publishDate: '2024-03-19T11:11:27.901116Z'
 publication_types:
 - '1'
 abstract: ''
