@@ -14,8 +14,8 @@ author_notes:
 - "First Author"
 tags: []
 categories: []
-date: '2023-12-10'
-lastmod: 2023-12-10T19:11:29+08:00
+date: '2024-01-10'
+lastmod: 2024-01-10T19:11:29+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ url_code: https://github.com/hulianyuyy/COMMA
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-10T11:11:27.901116Z'
+publishDate: '2024-01-10T11:11:27.901116Z'
 publication_types:
 - '1'
 abstract: ''
